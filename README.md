@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marko (**@mkjovanov**)
-- 👀 I’m interested in **ReactJS**, **NodeJS**, **Unreal**, and **Godot**
-- 🌱 I’m currently learning **AWS** and **NodeJS**
-- 💞️ I’m looking to collaborate on **Game Dev projects**.
+- 👀 I’m interested in **ReactJS**, **Rust**, **Golang**, **Unreal**, and **Godot**
+- 🌱 I’m currently learning **ReactJS** and **Unreal 5**
+- 💞️ I’m looking to collaborate on **Game Dev** and **Rust** projects.
 - 📫 How to reach me: **mkjovanov@gmail.com**
 
 <!---
